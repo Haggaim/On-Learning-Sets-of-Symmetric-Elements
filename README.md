@@ -26,3 +26,7 @@ month = {July},
 year = {2020}
 }
 ```
+
+For business inquiries, please contact researchinquiries@nvidia.com 
+
+For press and other inquiries, please contact Hector Marinez at hmarinez@nvidia.com
